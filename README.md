@@ -53,10 +53,5 @@ Contributions to this project are welcome! If you find any issues or want to sug
 ## Contact
 
 If you have any questions or need support, you can reach out to the project maintainer:
-
-- Email: [your_email@example.com](mailto:your_email@example.com)
-- Twitter: [@your_twitter_handle](https://twitter.com/your_twitter_handle)
-
----
-Acknowledgments: The encryption algorithm used in this project is inspired by [source_link]. We thank the open-source community for their contributions.
+-------
 
