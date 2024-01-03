@@ -44,11 +44,11 @@ dlock.exe <input_file.lock> <password>
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ## Contributing
 
-Contributions to this project are welcome! If you find any issues or want to suggest improvements, feel free to create a pull request or open an issue. Please follow the [CONTRIBUTING](CONTRIBUTING.md) guidelines.
+Contributions to this project are welcome! If you find any issues or want to suggest improvements, feel free to create a pull request or open an issue.
 
 ## Contact
 
