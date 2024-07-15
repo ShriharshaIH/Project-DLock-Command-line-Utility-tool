@@ -50,8 +50,4 @@ This project is licensed under the MIT License.
 
 Contributions to this project are welcome! If you find any issues or want to suggest improvements, feel free to create a pull request or open an issue.
 
-## Contact
-
-If you have any questions or need support, you can reach out to the project maintainer:
--------
 
